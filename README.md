@@ -13,3 +13,9 @@
 ## Стэк
 
 - JavaScript, TypeScript, Svelte.js, SCSS
+
+---
+
+## Как работает приложение
+
+![Видео работы приложения](https://s11.gifyu.com/images/S4ubb.gif)
